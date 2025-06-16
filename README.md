@@ -1,5 +1,5 @@
 # HUD Machine Icon Packs for Resource Redirect
-HUD Machine Icon Packs for WindHawk Resource Redirect
+These icons were created by Mr GRiM of Virtual Customs. All I did was convert them to support WindHawk Resource Redirect.
 
 
 ## Icon Packs
